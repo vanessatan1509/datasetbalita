@@ -1,0 +1,301 @@
+No,Nama Balita,Jenis Kelamin,Umur (Bulan),Tinggi Badan (cm),Berat Badan (kg)
+1,Raikal Shing Khurana,L,35,86,8.5
+2,Mestika Nabila,P,38,85,10.5
+3,Kamaluddin Ilyas,L,23,79,7.7
+4,Ayumi Faujiah,P,13,68,6.5
+5,Ikhsan Pratama,L,48,95,12
+6,Robiatul Annahda,P,17,70,6.6
+7,Ayu Ferling,P,44,85,9.4
+8,Imanuel Sihombing,L,56,86.5,13.2
+9,Silvi Stevani Siagian,P,35,84,11
+10,Aditia Pratama,L,45,92.5,11.5
+11,Fatia Amani Putri,P,18,74.5,7.5
+12,Nur Mey Dita,P,40,87,11
+13,Azril Rayhan Dika Alfariq,L,37,84,9.4
+14,Gali Rafael,L,24,77.5,9
+15,Sayyidah Nafisah,P,43,88.5,11.5
+16,Zaki Rabbani,L,48,91.2,12.2
+17,Setia Jasahcah,P,52,91,11.9
+18,Ajeng Aurellia Putri,P,58,98,12
+19,Ayu Gabriela,P,56,90,12
+20,Aura Aprillia,P,51,92.5,11.5
+21,Nadira,P,38,85,11.5
+22,M. Luthfi,L,48,93,11.4
+23,Riska Aulia,P,49,85,10.2
+24,M. Angga,L,15,68,5.6
+25,Fadiyah S. C.,P,22,74,7.3
+26,Niarbetty,P,46,93,11.7
+27,Raisal Affandi,L,52,93,11.5
+28,Siti Akila,P,47,88,11
+29,Muhammad Arka,L,59,98,12.5
+30,Mhd Al khafi,L,51,94,12.5
+31,Nazira Alya Lubis,P,30,83,11
+32,Azzam Fahri,L,39,90,10
+33,Fikri Maulana,L,43,85,11.8
+34,Sakila,P,28,70,8.5
+35,Siti Aisyah,P,58,91,11.5
+36,Arumi Chayra Aulia,P,29,86,9.5
+37,Naura Syafitri,P,39,83,10
+38,Nur Rahma Swandi,P,43,91,14
+39,Fatimah Az zahra,P,36,86,9.5
+40,Kurnia Shah Harumi,P,57,95,13
+41,Alisya Salsabila,P,49,87,11
+42,Shifanny Ar Ray Tanjung,P,26,70,8.5
+43,M. Khabib,L,33,81,10.3
+44,M. Rizki Ramadhan,L,48,82,12.3
+45,Adiba Kanza Zahra,P,44,90,12
+46,Muamar Latif,L,26,75,10
+47,Haikal Ahmad Zidan,L,46,96,13.5
+48,Kaila Putri Arafah,P,47,84,8
+49,BilqisAzura,P,28,77,9.2
+50,Inhdzen Alfarizi,L,28,76,10
+51,Razak,L,25,76,9
+52,Afif hamizan,L,43,90,11.5
+53,Rafael Darmawan,L,58,87,11
+54,Davian,L,15,69,7
+55,Zein malik Alhafis,L,53,93,11
+56,Aisyah Putri Syaban,P,28,80,9.3
+57,Kezira,P,53,89,12
+58,Chelsi,P,56,93,11
+59,Khairunnisa,P,39,96,10.6
+60,Azka Makhaila,P,44,90,10.2
+61,Arumi Farhana,P,33,92,11.4
+62,Albyansyah Haikal Sagala,L,19,79,8
+63,Lena,P,21,72,8.5
+64,Alif Ardiansyah,L,43,90,12.3
+65,Dava Adya Tama,L,31,78,10.5
+66,M. Alfarizi,L,32,83.5,8.8
+67,Suci Hayati,P,55,91,10.5
+68,M. Rasyad,L,27,76,7.3
+69,M. Adam,L,47,90,11
+70,Azzalea,P,51,92.5,12
+71,Chika Umairah Putri ,P,33,80,8.4
+72,Mutiara ,P,21,75,8
+73,Nayara Syanum ,P,24,75,7.3
+74,Arsyana Dwi Akila ,P,44,90,11.3
+75,Satria,L,55,93.5,12
+76,Aisyah Humairah,P,16,72,6.9
+77,Zea,P,15,69,6.5
+78,Marzia Nuha,P,26,79,8
+79,Nazwa Aprilia,P,32,89,9.9
+80,Afya Indira Putri,P,16,74,7
+81,Gelis Aisi Humairah,P,35,85,11
+82,T. Abian Permana,L,48,93.5,11
+83,Rosalinda Nainggolan,P,48,92,9.6
+84,Afifah Azahra,P,32,80,8.3
+85,Fahmi,L,34,86,10
+86,Akifah Nayla,P,42,86.7,10.7
+87,T. Rafi,L,51,96,11.5
+88,T. Andra,L,30,83,10.3
+89,Fathin Nur Addaha,P,22,75,8
+90,Randi Rifqi,L,45,81,9.5
+91,Bilmar Hasudungan Sinaga,L,27,83,9
+92,Afika Sari Ndruru,P,43,83,9.5
+93,Mhd Izhar AlZikri,L,20,70,6.8
+94,Dania Quinza,P,32,83,8.5
+95,M. Taqiy,L,48,86,11.5
+96,Cristian Rionaldo,L,48,92,11.2
+97,Yekiel,L,52,88,11.7
+98,Jesika Septiani.S,P,35,78,9.3
+99,Kanaya Melodi,P,26,70,8.4
+100,Aisyah Syahla Nasution,P,14,64,5.7
+101,Nur Azizah,P,23,85,9.2
+102,Yumna Rafani,P,36,87,10.3
+103,Fani Ramanda,P,41,91.5,11
+104,Khalisah Fikratuha,P,52,93,12
+105,Nazlan,L,39,93,11.3
+106,Lingga Angka Wijaya,L,33,99,11
+107,Nurul Azizah,P,34,88.5,10.9
+108,M. Rizki,L,40,92,12.3
+109,Kevin,L,47,96,12.8
+110,Akmal Iqbal,L,34,89,10.4
+111,Sri Mariyani,P,50,99,12
+112,M. Chen,P,24,88,8.8
+113,Aqil Habibi,L,17,74.5,8
+114,M. Aidil,L,28,88.5,11.8
+115,Nazla Fatarani,P,26,83,9.1
+116,Nur Afika,P,31,79,8.4
+117,Naek Silver,L,26,86.5,10.1
+118,Relantia Yulita,P,24,81,9
+119,Alhafiza Zahara,P,40,92,10.8
+120,Jon Mikael,L,50,93,11.4
+121,Nawang Gelis,P,29,84,9.1
+122,Nadin Humaira,P,19,76,8
+123,Yemima,P,16,73.4,7.8
+124,Cut Mutia,P,20,80.5,8.7
+125,Miftahul Khaira,P,49,95,12.2
+126,Mika Nababan,L,46,87,11.3
+127,Muhammad Alfarizky,L,41,94.5,11.2
+128,Fanesha,P,30,82,10
+129,Uwais Al Qarni,L,25,79,8.6
+130,Fauziah Aylani,P,38,81.2,9
+131,Ayra Zahra,P,48,89,11.35
+132,Abidzar Azka,L,40,88.5,10.5
+133,Annisa,P,44,88.4,11.4
+134,Muhammad Fitra,L,38,86,9.45
+135,Alghifari Dermawan,L,28,81.6,10
+136,Diki Alfarizky,L,53,94.6,12.6
+137,Riris Putri Viona,P,36,81,8
+138,Mufia Karfani Ansa,P,31,81,10
+139,Bryan Shane E. Purba ,L,41,89,13
+140,Deedat Al Mawi,L,30,83,10
+141,Muhammad Nauval ,L,26,82,9
+142,Salsa Kirana,P,21,75,7
+143,Syahfa Marwa Salsabila,P,44,90.5,13
+144,Nurul Aulia,P,42,94,12.2
+145,Febi Yunisa,P,42,88,10
+146,M. Reihan,L,37,84.5,10
+147,Haziq Al Athaya,L,36,86,9.7
+148,Athala,L,29,81.5,11
+149,Aviva Umma Hayroh,P,23,76.5,7.2
+150,Malika Putri,L,56,94,11.3
+151,Raja alisyahbana,P,39,89,10.6
+152,Karissa Aulia,L,25,80,8.6
+153,abdi Pratama ,P,26,81.5,8.7
+154,Alika attahira,P,33,82,8.2
+155,Kirana Ayumna,P,21,73,10.3
+156,Virena,P,15,72,8
+157,Marisa Natania,P,13,69,8.2
+158,Chrisdean  Xander Gulo,L,46,91,11.9
+159,Aqila Syafania,P,1,67,8
+160,Boy Nuradi,L,49,93,13
+161,Cristo Jadon S,L,21,78,9.7
+162,CristianJabin S,L,21,74,8.6
+163,Julpita,P,42,87.5,9.5
+164,Gabriel,L,22,76.5,10
+165,Jovanca Sihite,P,15,69,6.7
+166,zaspin Tambunan,L,7,57,5
+167,M. israq Fadillah,L,40,82,10
+168,Fatimah Azzarah,P,51,83,10
+169,Faniria Zega,P,14,77,7.1
+170,Naila Putri,P,56,96,11.8
+171,Arif setiawan,L,59,92,12.3
+172,Panji Putra,L,32,84,9.4
+173,M. Alvin,L,54,93,13.7
+174,M.  Kelvin,L,54,93,13.6
+175,Halimatusadiah,P,48,89,13.2
+176,Asyura Nazhira,P,23,81,7.7
+177,Rahmi Muharani,P,45,87,13
+178,M. Faalih Shiddik,L,48,90,13.3
+179,Aqilla,P,33,83,9.5
+180,Ara Dewi Lestari,P,44,84,11.8
+181,Adit Sahputra,L,43,88,12.5
+182,Maulana,L,19,74,7.8
+183,Anisa Zahara,P,57,95,14.7
+184,Airin Uswatul Hasanah,P,25,78,8
+185,Riana Jarni,P,31,77,9
+186,M. Haikal Azril,L,34,80,7
+187,Aira Nur Humaira,P,29,81,9
+188,Andra Nur Alfian Pulungan,L,50,93,11
+189,Rainda Azaria,P,44,90.5,11
+190,Cahaya Amira,P,39,83.5,10
+191,Rahul Gilbert Yosafat ,L,34,91,11.7
+192,Gabriel Merlindo Baringbing,L,48,93.3,11.4
+193,Alfan Pardede,L,42,88.1,10.5
+194,Asifa Jahwa,P,26,78.2,8.2
+195,Dhaifah dwi anggraini,P,58,87.1,10.9
+196,Afifah Amanda,P,46,84.1,10.8
+197,Muhamad Agra ,L,44,85.7,10.3
+198,Gisel Valeria,P,58,92.7,14
+199,Gibraltar  Pasaribu,L,48,88,13
+200,Akila,P,31,85,12
+201,Aska,L,44,88,11
+202,Bahtiar efendi,L,23,68,7
+203,Aldi Mahendra,L,55,90,11.5
+204,Elsa,P,43,85,8.7
+205,Ade Rafiq I,L,31,83.5,10.5
+206,Mhd Al Rasyid,L,26,80,8.8
+207,M. Yusuf Rangkuti,L,47,94,11.2
+208,Annasya Adreena,P,49,92,11.2
+209,Ezra Novita Bangun,P,13,68,6.3
+210,Sarah Fitrya,P,53,96,11.5
+211,Arsyla Mecca,P,37,86,11
+212,Alfi Syahri Ar-Rahman,L,27,79,8.9
+213,Hikaru Kagami,L,37,84,10.2
+214,Junika,P,38,86,12
+215,Agrifa,P,36,84,10.1
+216,Dian Saputra,L,56,98,13.8
+217,Anugrah pratama,L,13,72,7.2
+218,Atiah,P,16,71,7
+219,Rafasya Ardel Sinaga,L,17,70,7.7
+220,Jou,L,16,75,8
+221,M. Azam,L,43,92,11
+222,Abdul  Sidik,L,20,76,9.2
+223,Saut Taruli Sihotang,L,19,74,7.3
+224,Jingga Lestari,L,45,90,13
+225,Abdel Justin,L,28,75,7.9
+226,Rasel,L,55,80,10.5
+227,Diego Soala,L,20,69,6.7
+228,Aisyah,P,35,79,8.5
+229,Paris Humaira,P,35,82,10
+230,Hafijah Ramayani,P,50,86,10
+231,Dwi Febi Ramayani,P,39,80,9.8
+232,Gideon,L,14,70,7.6
+233,Saidah,P,51,82,11
+234,Muhammad Raffa,L,25,70,7.3
+235,Mufia Ardilla,P,45,89,11
+236,Mafik jaya Ramadhan,P,24,93,9.6
+237,Harfan R.A,L,23,70,6.9
+238,Afiza Akbar,L,33,74,9.2
+239,Nursyabilla,P,41,86,10
+240,M.Keynan A.Sinaga,L,35,85,12.5
+241,Laily Rizky,P,31,74.5,8.7
+242,Attalla Arrafif,L,43,88,13
+243,Alfarizi Azzam H,L,35,86,12
+244,Alpira Kirana Putri,P,48,93,13.5
+245,Al-Farezel Alfan,L,19,73,7.2
+246,Pebriansyah,L,18,72.5,6.5
+247,Mufa Fayza,P,46,88,13
+248,M.Rizki,L,33,84,12.5
+249,Mhd Aditya,L,46,88,13
+250,Nuraisyah,P,23,74,8.5
+251,Sri Wulandari,P,44,86,12.5
+252,M.Rizki,L,31,78,11
+253,Azril Azhari,L,43,91,14.2
+254,Alif Alfiandi,L,30,81.2,12.5
+255,Jihan Raisya Panjaitan,P,47,92,14.3
+256,Nurhafizah,P,22,70,9
+257,Nazwa Hilmi,P,23,76,8.5
+258,Qeeyara,P,6,60,5.4
+259,Auramiana,P,50,89,10
+260,Auraniana,P,50,89.5,10
+261,Alifal-Rasyid,L,51,89,10.7
+262,Ruthmayhappy,P,26,78,10
+263,Nurfatia,P,42,90,13.2
+264,Gomgommuse,L,36,86.5,12.1
+265,Asnianda,P,47,95,12.5
+266,Daffafatahilah,L,40,91,11.3
+267,Muhammadlutfihisyam,L,57,96,14.4
+268,Alyaazzahra,P,47,89,10.6
+269,Riza,P,33,88,11
+270,M.Khaizuran,L,21,76,8.4
+271,Khanzu,L,48,90.5,12
+272,Riskiramadhan,L,50,88,12.9
+273,Riskyraditia,L,46,87,11.2
+274,Gibranalrafif,L,29,83,9.9
+275,Anggilaswalestari,P,24,88,8.9
+276,Nailaazila,P,42,81,9.3
+277,Nurulhafizah,P,38,86,11.3
+278,M.Bayunandana,L,37,88,11.5
+279,Ertamina,P,49,96.5,14.8
+280,M.Azkafikof,L,57,100.2,14.6
+281,M.Rafa,L,57,88.5,10.4
+282,Rifki,L,33,82,9.9
+283,Marinirahma,P,57,81,9.8
+284,Tasyaadila,P,59,93.5,11.5
+285,Juliussimanjuntak,L,49,94,11
+286,Aisyahazizah,L,37,87,11.2
+287,Gloriaprayetno,P,50,90,12
+288,Safqihamza.A,L,40,90,11.6
+289,Kanayasyakira,P,41,89,11
+290,Alhasbynasution,L,35,84.5,10.2
+291,Muhammadabdulkarim,L,40,80,15
+292,Suciramadani,P,30,80,8.3
+293,Ivana,P,51,96,13
+294,M.Alfiansyahputra,L,46,94,12.5
+295,Muhammadtegar,L,42,95,11.2
+296,Muhammadreyhan,L,25,80,8.6
+297,Sigitpwardana,L,22,81,9.9
+298,Luffyrafisqyalfatih,L,23,81,9.9
+299,M.Adzasyahputra,L,20,75.5,8
+300,Roly,P,30,70,14
